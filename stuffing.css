@@ -1,0 +1,63 @@
+
+html {
+	background: hsl(50, 60%, 60%);
+}
+
+header{
+	align: 
+}
+
+body{
+	color: hsl(27, 72%,40%);
+	background-color: ivory;
+}
+
+aside{
+	display: block;
+	float: left
+}
+
+ul{
+	
+	padding-right: 5px; 
+	}
+
+hr {
+	display: block;
+	clear: left;
+	float: none;
+}
+section{
+	display: block;
+	clear: left;
+	float: none;
+}
+
+h1{
+	text-align: center;
+	color:rgb(91,91,91);
+	background-color: orange;
+	
+}
+
+h2 {
+	color:rgb(91,91,91);
+}
+
+h3{
+	color:rgb(91,91,91);
+}
+
+h4{
+	color:white;
+}
+
+img{
+	display: block;
+	float: left;
+}
+
+
+footer {
+	background: linear-gradient(345deg, hsl(20, 90%, 40%), hsl(35, 85%,45%) 70%);
+}
